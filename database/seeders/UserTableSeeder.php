@@ -17,8 +17,8 @@ class UserTableSeeder extends Seeder
             [
                 'name'=> 'Admin',
                 'username'=> 'admin',
-                'email' => 'admin@gmail.com',
-                'password' => Hash::make('1221'),
+                'email' => 'ClickWeb@gmail.com',
+                'password' => Hash::make('ClickWeb'),
                 'role'=> 'admin',
                 'status'=>'active',
             ],
