@@ -45,7 +45,7 @@
         <div class="logo position-relative">
             <a href="/" class="d-block text-decoration-none">
                 <!-- <img src="assets/images/logo-icon.png" alt="logo-icon"> -->
-                <span class="logo-text fw-bold text-dark">Protfolio</span>
+                <span class="logo-text fw-bold text-dark">ClickWeb</span>
                 <br>
             </a>
             <button
@@ -74,13 +74,13 @@
                     </a>
                     <ul class="menu-sub">
                         <li class="menu-item">
-                            <a href="{{ route('logo.index') }}" class="menu-link">
+                            <a href="#" class="menu-link">
                                 Show logo
                             </a>
                         </li>
 
                         <li class="menu-item">
-                            <a href="{{ route('logo.create') }}" class="menu-link">
+                            <a href="#" class="menu-link">
                                 Create logo
                             </a>
                         </li>
@@ -99,12 +99,12 @@
                     </a>
                     <ul class="menu-sub">
                         <li class="menu-item">
-                            <a href="{{ route('infos.index') }}" class="menu-link">
+                            <a href="#" class="menu-link">
                                 All infos
                             </a>
                         </li>
                         <li class="menu-item">
-                            <a href="{{ route('infos.create') }}" class="menu-link">
+                            <a href="#" class="menu-link">
                                 Create an info
                             </a>
                         </li>
@@ -127,12 +127,12 @@
                 </a>
             <ul class="menu-sub">
                 <li class="menu-item">
-                    <a href="{{ route('inbox') }}" class="menu-link">
+                    <a href="#" class="menu-link">
                     Inbox
                     </a>
                 </li>
                 <li class="menu-item">
-                    <a href="{{ route('Newsletters.index') }}" class="menu-link">
+                    <a href="#" class="menu-link">
                     Newsletters
                     </a>
                 </li>
@@ -148,12 +148,12 @@
                 </a>
                 <ul class="menu-sub">
                     <li class="menu-item">
-                        <a href="{{ route('banners.index') }}" class="menu-link">
+                        <a href="#" class="menu-link">
                             Banner Show
                         </a>
                     </li>
                     <li class="menu-item">
-                        <a href="{{ route('banners.create') }}" class="menu-link">
+                        <a href="#" class="menu-link">
                         Create
                         </a>
                     </li>
@@ -170,19 +170,19 @@
                 </a>
                 <ul class="menu-sub">
                     <li class="menu-item">
-                        <a href="{{ route('ArticleCategory.index') }}" class="menu-link">
+                        <a href="#" class="menu-link">
                          Article Category
                         </a>
                     </li>
 
                     <li class="menu-item">
-                        <a href="{{ route('Articles.index') }}" class="menu-link">
+                        <a href="#" class="menu-link">
                         All Articles
                         </a>
                     </li>
 
                     <li class="menu-item">
-                        <a href="{{ route('Articles.create') }}" class="menu-link">
+                        <a href="#" class="menu-link">
                         Create Article
                         </a>
                     </li>
@@ -198,13 +198,13 @@
                 </a>
                 <ul class="menu-sub">
                     <li class="menu-item">
-                        <a href="{{ route('Educations.index') }}" class="menu-link">
+                        <a href="#" class="menu-link">
                         All Education
                         </a>
                     </li>
 
                     <li class="menu-item">
-                        <a href="{{ route('Educations.create') }}" class="menu-link">
+                        <a href="#" class="menu-link">
                         Create Education
                         </a>
                     </li>
@@ -222,13 +222,13 @@
                 </a>
                 <ul class="menu-sub">
                     <li class="menu-item">
-                        <a href="{{ route('Experiences.index') }}" class="menu-link">
+                        <a href="#" class="menu-link">
                         All Experiences
                         </a>
                     </li>
 
                     <li class="menu-item">
-                        <a href="{{ route('Experiences.create') }}" class="menu-link">
+                        <a href="#" class="menu-link">
                         Create An Experience
                         </a>
                     </li>
@@ -245,12 +245,12 @@
                 </a>
                 <ul class="menu-sub">
                     <li class="menu-item">
-                        <a href="{{ route('feedback.index') }}" class="menu-link">
+                        <a href="#" class="menu-link">
                             feedback
                         </a>
                     </li>
                     <li class="menu-item">
-                        <a href="{{ route('feedback.create') }}" class="menu-link">
+                        <a href="#" class="menu-link">
                         Create feedback
                         </a>
                     </li>
@@ -267,7 +267,7 @@
                 </a>
             <ul class="menu-sub">
                 <li class="menu-item">
-                    <a href="{{ route('Skills.index') }}" class="menu-link">
+                    <a href="#" class="menu-link">
                         All skills
                     </a>
                 </li>
@@ -283,7 +283,7 @@
                 </a>
             <ul class="menu-sub">
                 <li class="menu-item">
-                    <a href="{{ route('Skills-Types.index') }}" class="menu-link">
+                    <a href="#" class="menu-link">
                         Type Skills
                     </a>
                 </li>
@@ -299,7 +299,7 @@
                 </a>
             <ul class="menu-sub">
                 <li class="menu-item">
-                    <a href="{{ route('Tags.index') }}" class="menu-link">
+                    <a href="#" class="menu-link">
                         All Tags
                     </a>
                 </li>
@@ -315,12 +315,12 @@
                 </a>
             <ul class="menu-sub">
                 <li class="menu-item">
-                    <a href="{{ route('Service-details.index') }}" class="menu-link">
+                    <a href="#" class="menu-link">
                         Show Services
                     </a>
                 </li>
                 <li class="menu-item">
-                    <a href="{{ route('Service-details.create') }}" class="menu-link">
+                    <a href="#" class="menu-link">
                     Create
                     </a>
                 </li>
@@ -330,7 +330,7 @@
                     </a>
                 </li> --}}
                 <li class="menu-item">
-                    <a href="{{ route('Service-vision.index') }}" class="menu-link">
+                    <a href="#" class="menu-link">
                     Service Vision
                     </a>
                 </li>
@@ -346,18 +346,18 @@
                 </a>
             <ul class="menu-sub">
                 <li class="menu-item">
-                    <a href="{{ route('Categories.index') }}" class="menu-link">
+                    <a href="#" class="menu-link">
                         All Categories
                     </a>
                 </li>
 
                 <li class="menu-item">
-                    <a href="{{ route('Protfolios.index') }}" class="menu-link">
+                    <a href="#" class="menu-link">
                         All Projects
                     </a>
                 </li>
                 <li class="menu-item">
-                    <a href="{{ route('Protfolios.create') }}" class="menu-link">
+                    <a href="#" class="menu-link">
                     Create
                     </a>
                 </li>
@@ -372,13 +372,13 @@
                 <ul class="menu-sub">
 
                     <li class="menu-item">
-                        <a href="{{ route('Members.index') }}" class="menu-link">
+                        <a href="#" class="menu-link">
                         All Members
                         </a>
                     </li>
 
                     <li class="menu-item">
-                        <a href="{{ route('Members.create') }}" class="menu-link">
+                        <a href="#" class="menu-link">
                         Create Member
                         </a>
                     </li>
@@ -395,19 +395,19 @@
                 <ul class="menu-sub">
 
                     <li class="menu-item">
-                        <a href="{{ route('DesignCategory.index') }}" class="menu-link">
+                        <a href="#" class="menu-link">
                             Design Category
                         </a>
                     </li>
 
                     <li class="menu-item">
-                        <a href="{{ route('Designs.index') }}" class="menu-link">
+                        <a href="#" class="menu-link">
                             All Designs
                         </a>
                     </li>
 
                     <li class="menu-item">
-                        <a href="{{ route('createD') }}" class="menu-link">
+                        <a href="#" class="menu-link">
                             Create Design
                         </a>
                     </li>
@@ -424,19 +424,19 @@
                 </a>
                 <ul class="menu-sub">
                     <li class="menu-item">
-                        <a href="{{ route('VideoCategory.index') }}" class="menu-link">
+                        <a href="#" class="menu-link">
                             Video Category
                         </a>
                     </li>
 
                     <li class="menu-item">
-                        <a href="{{ route('Videos.index') }}" class="menu-link">
+                        <a href="#" class="menu-link">
                             All Videos
                         </a>
                     </li>
 
                     <li class="menu-item">
-                        <a href="{{ route('create') }}" class="menu-link">
+                        <a href="#" class="menu-link">
                             Create Video
                         </a>
                     </li>
@@ -458,22 +458,22 @@
                 </a>
                 <ul class="menu-sub">
                     <li class="menu-item">
-                        <a href="{{ route('profile') }}" class="menu-link">
+                        <a href="#" class="menu-link">
                             Profile
                         </a>
                     </li>
                     <li class="menu-item">
-                        <a href="{{ route('profile.edit') }}" class="menu-link">
+                        <a href="#" class="menu-link">
                             Account
                         </a>
                     </li>
                     <li class="menu-item">
-                        <a href="{{ route('update_password') }}" class="menu-link">
+                        <a href="#" class="menu-link">
                             Security
                         </a>
                     </li>
                     <li class="menu-item">
-                        <a href="{{ route('delete_user') }}" class="menu-link">
+                        <a href="#" class="menu-link">
                             Delete
                         </a>
                     </li>
@@ -486,26 +486,26 @@
         <div class="bg-white z-1 admin">
             <div class="d-flex align-items-center admin-info border-top">
                 <div class="flex-shrink-0">
-                    <a href="{{ route('profile') }}" class="d-block">
+                    {{-- <a href="{{ route('profile') }}" class="d-block">
                        @foreach ($infos as $item)
                             @if ($item->image1 === null)
                             <img src="{{ asset('BackEnd/images/userAuto.jpeg') }}" class="rounded-circle wh-54" alt="">
                             @else
-                                {{-- <img src="{{ asset('storage/profile_pictures/' . auth()->user()->photo) }}" class="rounded-circle wh-54" alt="admin"> --}}
+                                <img src="{{ asset('storage/profile_pictures/' . auth()->user()->photo) }}" class="rounded-circle wh-54" alt="admin">
                                 <img src="{{ asset('storage/' . $item->image1) }}" class="rounded-circle wh-54" alt="admin">
                             @endif
 
-                    </a>
+                    </a> --}}
                 </div>
                 <div class="flex-grow-1 ms-3 info">
-                    <a href="#" class="d-block name">{{ $item->name }}</a>
+                    {{-- <a href="#" class="d-block name">{{ $item->name }}</a> --}}
                     <a href=""
                         onclick="event.preventDefault();document.getElementById('logout-form').submit();">Log Out</a>
                     <form action="{{ route('logout') }}" id="logout-form" method="post">
                         @csrf
                     </form>
                 </div>
-                @endforeach
+                {{-- @endforeach --}}
             </div>
         </div>
     </div>
@@ -558,22 +558,22 @@
                                     <div class="dropdown admin-profile">
                                         <div class="d-xxl-flex align-items-center bg-transparent border-0 text-start p-0 cursor"
                                             data-bs-toggle="dropdown">
-                                            <div class="flex-shrink-0">
+                                            {{-- <div class="flex-shrink-0">
                                             @foreach ($infos as $item)
                                                     @if ($item->image1 === null)
                                                     <img src="{{ asset('BackEnd/images/userAuto.jpeg') }}" class="rounded-circle wh-54" alt="">
                                                     @else
-                                                        {{-- <img src="{{ asset('storage/profile_pictures/' . auth()->user()->photo) }}" class="rounded-circle wh-54" alt="admin"> --}}
+                                                        <img src="{{ asset('storage/profile_pictures/' . auth()->user()->photo) }}" class="rounded-circle wh-54" alt="admin">
                                                         <img src="{{ asset('storage/' . $item->image1) }}" class="rounded-circle wh-54" alt="admin">
                                                     @endif
 
-                                            </div>
+                                            </div> --}}
                                             <div class="flex-grow-1 ms-3">
                                                 <div class="d-flex align-items-center justify-content-between">
                                                     <div class="d-none d-xxl-block">
                                                         {{-- <span class="degeneration">{{ auth()->user()->role }}</span> --}}
                                                         <div class="d-flex align-content-center">
-                                                            <h3>{{ $item->name }}</h3>
+                                                            {{-- <h3>{{ $item->name }}</h3> --}}
                                                             <div class="down">
                                                                 <i data-feather="chevron-down"></i>
                                                             </div>
@@ -582,11 +582,11 @@
                                                 </div>
                                             </div>
                                         </div>
-                                        @endforeach
+                                        {{-- @endforeach --}}
                                         <ul class="dropdown-menu border-0 bg-white w-100 admin-link">
                                             <li>
-                                                <a class="dropdown-item d-flex align-items-center text-body"
-                                                    href="{{ route('profile') }}">
+                                                {{-- <a class="dropdown-item d-flex align-items-center text-body"
+                                                    href="{{ route('profile') }}"> --}}
                                                     <i data-feather="user"></i>
                                                     <span class="ms-2">Profile</span>
                                                 </a>
@@ -627,9 +627,9 @@
 
             <div class="flex-grow-1"></div>
             <footer class="footer-area bg-white text-center rounded-top-10">
-                <p class="fs-14"> <span class="TSM">©</span><span class="text-primary">Protfolio</span> <span
+                <p class="fs-14"> <span class="TSM">©</span><span class="text-primary">ClickWeb</span> <span
                         class="TSM">is Proudly Owned by</span> <a href="/" target="_blank"
-                        class="text-primary text-decoration-none">Hiba El Farissi</a></p>
+                        class="text-primary text-decoration-none">ClickWeb</a></p>
             </footer>
         </div>
     </div>
